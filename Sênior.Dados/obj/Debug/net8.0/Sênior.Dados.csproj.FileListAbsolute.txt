@@ -1,0 +1,30 @@
+C:\Dev\Teste Sênior 2\Sênior.Dados\bin\Debug\net8.0\Sênior.Dados.deps.json
+C:\Dev\Teste Sênior 2\Sênior.Dados\bin\Debug\net8.0\Sênior.Dados.dll
+C:\Dev\Teste Sênior 2\Sênior.Dados\bin\Debug\net8.0\Sênior.Dados.pdb
+C:\Dev\Teste Sênior 2\Sênior.Dados\bin\Debug\net8.0\Sênior.Business.dll
+C:\Dev\Teste Sênior 2\Sênior.Dados\bin\Debug\net8.0\Sênior.Business.pdb
+C:\Dev\Teste Sênior 2\Sênior.Dados\obj\Debug\net8.0\Sênior.Dados.csproj.AssemblyReference.cache
+C:\Dev\Teste Sênior 2\Sênior.Dados\obj\Debug\net8.0\Sênior.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Teste Sênior 2\Sênior.Dados\obj\Debug\net8.0\Sênior.Dados.AssemblyInfoInputs.cache
+C:\Dev\Teste Sênior 2\Sênior.Dados\obj\Debug\net8.0\Sênior.Dados.AssemblyInfo.cs
+C:\Dev\Teste Sênior 2\Sênior.Dados\obj\Debug\net8.0\Sênior.Dados.csproj.CoreCompileInputs.cache
+C:\Dev\Teste Sênior 2\Sênior.Dados\obj\Debug\net8.0\Sênior.D.C7DA62E2.Up2Date
+C:\Dev\Teste Sênior 2\Sênior.Dados\obj\Debug\net8.0\Sênior.Dados.dll
+C:\Dev\Teste Sênior 2\Sênior.Dados\obj\Debug\net8.0\refint\Sênior.Dados.dll
+C:\Dev\Teste Sênior 2\Sênior.Dados\obj\Debug\net8.0\Sênior.Dados.pdb
+C:\Dev\Teste Sênior 2\Sênior.Dados\obj\Debug\net8.0\ref\Sênior.Dados.dll
+C:\Dev\Teste Sênior\Sênior.Dados\bin\Debug\net8.0\Sênior.Dados.deps.json
+C:\Dev\Teste Sênior\Sênior.Dados\bin\Debug\net8.0\Sênior.Dados.dll
+C:\Dev\Teste Sênior\Sênior.Dados\bin\Debug\net8.0\Sênior.Dados.pdb
+C:\Dev\Teste Sênior\Sênior.Dados\bin\Debug\net8.0\Sênior.Business.dll
+C:\Dev\Teste Sênior\Sênior.Dados\bin\Debug\net8.0\Sênior.Business.pdb
+C:\Dev\Teste Sênior\Sênior.Dados\obj\Debug\net8.0\Sênior.Dados.csproj.AssemblyReference.cache
+C:\Dev\Teste Sênior\Sênior.Dados\obj\Debug\net8.0\Sênior.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Teste Sênior\Sênior.Dados\obj\Debug\net8.0\Sênior.Dados.AssemblyInfoInputs.cache
+C:\Dev\Teste Sênior\Sênior.Dados\obj\Debug\net8.0\Sênior.Dados.AssemblyInfo.cs
+C:\Dev\Teste Sênior\Sênior.Dados\obj\Debug\net8.0\Sênior.Dados.csproj.CoreCompileInputs.cache
+C:\Dev\Teste Sênior\Sênior.Dados\obj\Debug\net8.0\Sênior.D.C7DA62E2.Up2Date
+C:\Dev\Teste Sênior\Sênior.Dados\obj\Debug\net8.0\Sênior.Dados.dll
+C:\Dev\Teste Sênior\Sênior.Dados\obj\Debug\net8.0\refint\Sênior.Dados.dll
+C:\Dev\Teste Sênior\Sênior.Dados\obj\Debug\net8.0\Sênior.Dados.pdb
+C:\Dev\Teste Sênior\Sênior.Dados\obj\Debug\net8.0\ref\Sênior.Dados.dll

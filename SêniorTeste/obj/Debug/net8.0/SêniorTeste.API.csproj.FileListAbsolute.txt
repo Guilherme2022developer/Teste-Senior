@@ -1,0 +1,200 @@
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\appsettings.Development.json
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\appsettings.json
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\SêniorTeste.API.exe
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\SêniorTeste.API.deps.json
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\SêniorTeste.API.runtimeconfig.json
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\SêniorTeste.API.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\SêniorTeste.API.pdb
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\AutoMapper.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Azure.Core.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Azure.Identity.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Azure.Security.KeyVault.Certificates.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Dapper.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\FluentValidation.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Web.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Web.Certificate.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Web.DownstreamApi.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Sênior.Business.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Sênior.Dados.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Sênior.Dados.pdb
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Sênior.Business.pdb
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.csproj.AssemblyReference.cache
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.AssemblyInfoInputs.cache
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.AssemblyInfo.cs
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.csproj.CoreCompileInputs.cache
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\staticwebassets.build.json
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\staticwebassets.development.json
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\staticwebassets\msbuild.SêniorTeste.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\staticwebassets\msbuild.build.SêniorTeste.API.props
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SêniorTeste.API.props
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SêniorTeste.API.props
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\scopedcss\bundle\SêniorTeste.API.styles.css
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\SêniorTe.CDE82C9C.Up2Date
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\refint\SêniorTeste.API.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.pdb
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.genruntimeconfig.cache
+C:\Dev\Teste Sênior 2\SêniorTeste\obj\Debug\net8.0\ref\SêniorTeste.API.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Dapper.Contrib.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\MySqlConnector.dll
+C:\Dev\Teste Sênior 2\SêniorTeste\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\appsettings.Development.json
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\SêniorTeste.API.exe
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\appsettings.json
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\SêniorTeste.API.deps.json
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\SêniorTeste.API.runtimeconfig.json
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\SêniorTeste.API.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\SêniorTeste.API.pdb
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\AutoMapper.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Azure.Core.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Azure.Identity.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Azure.Security.KeyVault.Certificates.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Dapper.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Dapper.Contrib.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\FluentValidation.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Web.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Web.Certificate.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Web.DownstreamApi.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\MySqlConnector.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Sênior.Business.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Sênior.Dados.dll
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Sênior.Dados.pdb
+C:\Dev\Teste Sênior\SêniorTeste\bin\Debug\net8.0\Sênior.Business.pdb
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.csproj.AssemblyReference.cache
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.AssemblyInfoInputs.cache
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.AssemblyInfo.cs
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.csproj.CoreCompileInputs.cache
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\staticwebassets.build.json
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\staticwebassets.development.json
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\staticwebassets\msbuild.SêniorTeste.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\staticwebassets\msbuild.build.SêniorTeste.API.props
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SêniorTeste.API.props
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SêniorTeste.API.props
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\scopedcss\bundle\SêniorTeste.API.styles.css
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\SêniorTe.CDE82C9C.Up2Date
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.dll
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\refint\SêniorTeste.API.dll
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.pdb
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\SêniorTeste.API.genruntimeconfig.cache
+C:\Dev\Teste Sênior\SêniorTeste\obj\Debug\net8.0\ref\SêniorTeste.API.dll

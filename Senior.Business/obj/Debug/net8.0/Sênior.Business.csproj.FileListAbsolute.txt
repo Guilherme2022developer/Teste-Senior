@@ -1,0 +1,24 @@
+C:\Dev\Teste Sênior 2\Senior.Business\bin\Debug\net8.0\Sênior.Business.deps.json
+C:\Dev\Teste Sênior 2\Senior.Business\bin\Debug\net8.0\Sênior.Business.dll
+C:\Dev\Teste Sênior 2\Senior.Business\bin\Debug\net8.0\Sênior.Business.pdb
+C:\Dev\Teste Sênior 2\Senior.Business\obj\Debug\net8.0\Sênior.Business.csproj.AssemblyReference.cache
+C:\Dev\Teste Sênior 2\Senior.Business\obj\Debug\net8.0\Sênior.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Teste Sênior 2\Senior.Business\obj\Debug\net8.0\Sênior.Business.AssemblyInfoInputs.cache
+C:\Dev\Teste Sênior 2\Senior.Business\obj\Debug\net8.0\Sênior.Business.AssemblyInfo.cs
+C:\Dev\Teste Sênior 2\Senior.Business\obj\Debug\net8.0\Sênior.Business.csproj.CoreCompileInputs.cache
+C:\Dev\Teste Sênior 2\Senior.Business\obj\Debug\net8.0\Sênior.Business.dll
+C:\Dev\Teste Sênior 2\Senior.Business\obj\Debug\net8.0\refint\Sênior.Business.dll
+C:\Dev\Teste Sênior 2\Senior.Business\obj\Debug\net8.0\Sênior.Business.pdb
+C:\Dev\Teste Sênior 2\Senior.Business\obj\Debug\net8.0\ref\Sênior.Business.dll
+C:\Dev\Teste Sênior\Senior.Business\bin\Debug\net8.0\Sênior.Business.deps.json
+C:\Dev\Teste Sênior\Senior.Business\bin\Debug\net8.0\Sênior.Business.dll
+C:\Dev\Teste Sênior\Senior.Business\bin\Debug\net8.0\Sênior.Business.pdb
+C:\Dev\Teste Sênior\Senior.Business\obj\Debug\net8.0\Sênior.Business.csproj.AssemblyReference.cache
+C:\Dev\Teste Sênior\Senior.Business\obj\Debug\net8.0\Sênior.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Teste Sênior\Senior.Business\obj\Debug\net8.0\Sênior.Business.AssemblyInfoInputs.cache
+C:\Dev\Teste Sênior\Senior.Business\obj\Debug\net8.0\Sênior.Business.AssemblyInfo.cs
+C:\Dev\Teste Sênior\Senior.Business\obj\Debug\net8.0\Sênior.Business.csproj.CoreCompileInputs.cache
+C:\Dev\Teste Sênior\Senior.Business\obj\Debug\net8.0\Sênior.Business.dll
+C:\Dev\Teste Sênior\Senior.Business\obj\Debug\net8.0\refint\Sênior.Business.dll
+C:\Dev\Teste Sênior\Senior.Business\obj\Debug\net8.0\Sênior.Business.pdb
+C:\Dev\Teste Sênior\Senior.Business\obj\Debug\net8.0\ref\Sênior.Business.dll

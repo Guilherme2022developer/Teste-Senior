@@ -1,0 +1,194 @@
+[
+  {
+    "ContainingType": "S\u00EAniorTeste.API.Controllers.PersonController",
+    "Method": "Login",
+    "RelativePath": "web/api/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "S\u00EAniorTeste.API.ViewModels.LoginViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "S\u00EAniorTeste.API.Controllers.PersonController",
+    "Method": "GetByCpf",
+    "RelativePath": "web/api/person/{cpf}/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "S\u00EAniorTeste.API.ViewModels.PersonViewModels",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "S\u00EAniorTeste.API.Controllers.PersonController",
+    "Method": "GetByCode",
+    "RelativePath": "web/api/person/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "S\u00EAniorTeste.API.ViewModels.PersonViewModels",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "S\u00EAniorTeste.API.Controllers.PersonController",
+    "Method": "GetByUf",
+    "RelativePath": "web/api/person/{uf}/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uf",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[S\u00EAniorTeste.API.ViewModels.PersonViewModels, SeniorTeste.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "S\u00EAniorTeste.API.Controllers.PersonController",
+    "Method": "AddPerson",
+    "RelativePath": "web/api/person/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personViewModels",
+        "Type": "S\u00EAniorTeste.API.ViewModels.PersonCreateViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "S\u00EAniorTeste.API.ViewModels.PersonCreateViewModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "S\u00EAniorTeste.API.Controllers.PersonController",
+    "Method": "GetAll",
+    "RelativePath": "web/api/person/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[S\u00EAniorTeste.API.ViewModels.PersonViewModels, SeniorTeste.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "S\u00EAniorTeste.API.Controllers.PersonController",
+    "Method": "RemovePerson",
+    "RelativePath": "web/api/person/remove/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "S\u00EAniorTeste.API.ViewModels.PersonViewModels",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "S\u00EAniorTeste.API.Controllers.PersonController",
+    "Method": "UpdatePerson",
+    "RelativePath": "web/api/person/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personViewModels",
+        "Type": "S\u00EAniorTeste.API.ViewModels.PersonViewModels",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "S\u00EAniorTeste.API.ViewModels.PersonViewModels",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
