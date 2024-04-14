@@ -43,3 +43,4 @@ C:\Dev\Teste\Teste Senior\Sênior.Dados\obj\Debug\net8.0\Senior.Dados.dll
 C:\Dev\Teste\Teste Senior\Sênior.Dados\obj\Debug\net8.0\refint\Senior.Dados.dll
 C:\Dev\Teste\Teste Senior\Sênior.Dados\obj\Debug\net8.0\Senior.Dados.pdb
 C:\Dev\Teste\Teste Senior\Sênior.Dados\obj\Debug\net8.0\ref\Senior.Dados.dll
+C:\Dev\Teste\Teste Senior\Sênior.Dados\obj\Debug\net8.0\Senior.Dados.sourcelink.json

@@ -34,3 +34,4 @@ C:\Dev\Teste\Teste Senior\Senior.Business\obj\Debug\net8.0\Senior.Business.dll
 C:\Dev\Teste\Teste Senior\Senior.Business\obj\Debug\net8.0\refint\Senior.Business.dll
 C:\Dev\Teste\Teste Senior\Senior.Business\obj\Debug\net8.0\Senior.Business.pdb
 C:\Dev\Teste\Teste Senior\Senior.Business\obj\Debug\net8.0\ref\Senior.Business.dll
+C:\Dev\Teste\Teste Senior\Senior.Business\obj\Debug\net8.0\Senior.Business.sourcelink.json

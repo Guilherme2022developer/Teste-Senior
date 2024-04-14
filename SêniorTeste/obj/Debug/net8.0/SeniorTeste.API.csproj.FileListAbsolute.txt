@@ -298,3 +298,4 @@ C:\Dev\Teste\Teste Senior\SêniorTeste\obj\Debug\net8.0\refint\SeniorTeste.API.d
 C:\Dev\Teste\Teste Senior\SêniorTeste\obj\Debug\net8.0\SeniorTeste.API.pdb
 C:\Dev\Teste\Teste Senior\SêniorTeste\obj\Debug\net8.0\SeniorTeste.API.genruntimeconfig.cache
 C:\Dev\Teste\Teste Senior\SêniorTeste\obj\Debug\net8.0\ref\SeniorTeste.API.dll
+C:\Dev\Teste\Teste Senior\SêniorTeste\obj\Debug\net8.0\SeniorTeste.API.sourcelink.json
